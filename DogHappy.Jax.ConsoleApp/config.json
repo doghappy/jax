@@ -7,7 +7,7 @@
     "OutputDir": "xlsx"
   },
   "XlsxToJson": {
-    "XlsxSource": "a.xlsx",
+    "XlsxSource": "xlsx/result.xlsx",
     "OutputDir": "json"
   }
 }

@@ -46,7 +46,7 @@ namespace DogHappy.Jax.ConsoleApp
             }
             using (var stream = cvt.GetXlsxFileAsync(masterJsonPath, slaveJsonPaths).GetAwaiter().GetResult())
             {
-                string outputPath = Path.Combine(outputDir, DateTime.Now.ToString("yyyy-MM-ddThh_mm_ss") + ".xlsx");
+                string outputPath = Path.Combine(outputDir, "result.xlsx");
                 File.WriteAllBytes(outputPath, stream.ToArray());
             }
         }
