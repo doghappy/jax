@@ -71,3 +71,5 @@ var list = await cvt.GetJsonFilesAsync(xlsxPath)
 ```
 
 > Jax supports the conversion of **multiple JSON files to an xlsx file**. with each JSON file as a column, using `master.json`'s data structure as the standard.
+
+`DogHappy.Jax.ConsoleApp` is an example app that converts i18n JSON to xlsx for editing. After editing, it can be converted back to JSON file. (.NET Core 3.0)
