@@ -1,0 +1,207 @@
+{
+  "navbar": {
+    "about": "About the Service",
+    "help": "Help",
+    "contact": "Contact",
+    "login": "Login",
+    "logout": "Logout",
+    "myPoints": "My Points",
+    "profile": "Profile",
+    "settings": "Settings",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "block": {
+    "about": {
+      "title": "About the service",
+      "subTitle": "Swipp gives you an overview of all your bonus points.",
+      "features": {
+        "register": {
+          "title": "Register",
+          "text": "Simplify your social life by communicating via voice."
+        },
+        "selectBenefit": {
+          "title": "Select the benefit program",
+          "text": "No matter how hard you look, you’ll never find better."
+        },
+        "seePoints": {
+          "title": "See your points",
+          "text": "Salient App is now out for download everywhere."
+        },
+        "sortPoints": {
+          "title": "Sort your points",
+          "text": "Get 10gb storage on our servers with a free account."
+        }
+      },
+      "swippText": "Far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    },
+    "register": {
+      "title": "Register",
+      "success": {
+        "textOne": "An activation email has been sent to",
+        "textTwo": "Click on the link to activate the account and log in."
+      }
+    },
+    "login": {
+      "title": "Login"
+    },
+    "profile": {
+      "title": "Profile"
+    },
+    "forgotPassword": {
+      "title": "Forgot your password?",
+      "subTitle": "Enter your email below and receive password reset instructions."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subTitle": "Do you have questions?"
+    },
+    "termsConditions": {
+      "title": "Terms & Conditions",
+      "sectionOne": {
+        "title": "1. Lorem Ipsum",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elite, sed do eiusmod tempor incididunt ut labore and dolore magna aliqua. From enim ad minim veniam, quis nostrud exercise ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Exceptor has been non-resident cupidatat, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      },
+      "sectionTwo": {
+        "title": "2. Lorem Ipsum",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elite, sed do eiusmod tempor incididunt ut labore and dolore magna aliqua. From enim ad minim veniam, quis nostrud exercise ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Exceptor has been non-resident cupidatat, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      }
+    },
+    "help": {
+      "title": "Help",
+      "subTitlePartOne": "If you do not find the answer you are looking for, please call us on",
+      "subTitlePartTwo": "or send an email to",
+      "itemSwipp": {
+        "parent": "About Swipp",
+        "child": ""
+      },
+      "itemTaxRules": {
+        "parent": "About the tax rules",
+        "child": ""
+      },
+      "itemProfile": {
+        "parent": "Your profile",
+        "child": ""
+      },
+      "itemCategory": {
+        "parent": "Category",
+        "child": ""
+      }
+    },
+    "myPoints": {
+      "title": "My Points",
+      "subTitle": "Select and log in to your benefits program",
+      "benefitsText": "Here are several benefit programs",
+      "card": {
+        "name": "SAS EuroBonus",
+        "unsorted": "Unsorted",
+        "jobPoints": "Job Points",
+        "privatePoints": "Private Points"
+      },
+      "table": {
+        "titleUnsorted": "Unsorted points",
+        "subTitleUnsorted": "If the employer has paid for your travels, there are job points.",
+        "titleSorted": "Sorted points",
+        "titleYearly": "2018",
+        "subTitleYearly": "You only need to sort points from 01.01.2019. All points are therefore automatically private.",
+        "activity": "Activity",
+        "point": "Point",
+        "private": "Private",
+        "job": "Job"
+      }
+    },
+    "settings": {
+      "title": "Settings",
+      "titleSecond": "Notifications",
+      "subTitle": "New points that need to be sorted"
+    },
+    "privacyPolicy": {
+      "title": "Privacy Policy",
+      "sectionOne": {
+        "title": "1. Lorem Ipsum",
+        "text": "Lorem ipsum carrots, enhanced undergraduate focus, but do occaecat time and vitality, such as labor and obesity. From the years all will I come, who shall exercise nostrud aliquip advantage from it as a stimulus efforts if the school district. Want to be a pain in the cupidatat cillum has been criticized in the Duis et dolore magna flee produces no resultant pleasure. Exceptor has been non-resident cupidatat are to blame for those services that is soft minds to abandon efforts."
+      },
+      "sectionTwo": {
+        "title": "2. Lorem Ipsum",
+        "text": "Lorem ipsum carrots, enhanced undergraduate focus, but do occaecat time and vitality, such as labor and obesity. From the years all will I come, who shall exercise nostrud aliquip advantage from it as a stimulus efforts if the school district. Want to be a pain in the cupidatat cillum has been criticized in the Duis et dolore magna flee produces no resultant pleasure. Exceptor has been non-resident cupidatat are to blame for those services that is soft minds to abandon efforts."
+      }
+    }
+  },
+  "formElements": {
+    "firstName": "First Name",
+    "lastName": "Surname",
+    "email": "Email",
+    "phoneNumber": "Mobile number",
+    "password": "Password",
+    "passwordRepeat": "Repeat Password",
+    "company": "Name of employer",
+    "termsConditions": "I have read and agree to the",
+    "formName": "Name",
+    "subject": "Subject",
+    "message": "Message",
+    "notifyEmail": "E-mail",
+    "notifySMS": "SMS",
+    "notifyOptions": "How often do you want to be notified if you have points ready for sorting?",
+    "notifyImmediately": "Immediately",
+    "notifyWeekly": "Once a week",
+    "notifyMonthly": "Once a month",
+    "chooseLanguage": "Choose Language",
+    "validationErrors": {
+      "required": "{{fieldName}} is required",
+      "name": "You have more than 60 characters",
+      "phoneNumber": "You have more than 17 characters",
+      "email": "Please enter a valid email",
+      "password": "Password must be at least 6 character",
+      "noEmployer": "No employer found"
+    },
+    "links": {
+      "forgotPassword": "Forgot your password",
+      "termsConditions": "Terms & Conditions"
+    },
+    "buttons": {
+      "createUser": "Create User",
+      "login": "Login",
+      "send": "Send",
+      "saveChanges": "Save Changes",
+      "saveSettings": "Save Settings"
+    }
+  },
+  "errorMessage": {
+    "default": "Something went wrong. Please contact support to resolve issue.",
+    "400": {
+      "invalid_grant": "Invalid username or password.",
+      "invalid_request": "Inactive account. Activate your account using the confirmation email."
+    },
+    "401": {
+      "unauthorized": "Unauthorized user."
+    },
+    "404": "The server can not find requested resource.",
+    "405": "Method not allowed.",
+    "429": "Too many requests.",
+    "500": "Internal server error."
+  },
+  "successMessage": {
+    "login": "Login successful.",
+    "forgotPassword": "An email has been sent to reset password.",
+    "register": "Registration successful.",
+    "contact": "Message forwarded successfully. Support will contact you shortly.",
+    "settings": "Account settings updated successfully.",
+    "profile": "Profile updated successfully.",
+    "loginEuroBonus": "Successfully logged in to EuroBonus. Retrieving data.",
+    "pointDistribution": "Point distribution successfully updated."
+  },
+  "REGISTER": {
+    "firstName": "FIRSTNAME"
+  },
+  "SETTINGS": {
+    "PageHeading": "Settings",
+    "PageSub_heading": "Notifications",
+    "Userprompt": "New points that need to be sorted",
+    "MailCheckBox": "E-mail",
+    "SmsCheckBox": "SMS",
+    "NotifyFrequencyPrompt": "How often do you want to be notified if you have points ready for sorting?",
+    "Notify_immediately": "Immediately",
+    "Notify_Once_a_week": "Once a week",
+    "Notify_Once_a_month": " Once a month",
+    "SaveButtonText": "Save settings"
+  }
+}

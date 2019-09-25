@@ -1,0 +1,13 @@
+{
+  "JsonToXlsx": {
+    "MasterJson": "i18n/en.json",
+    "SlaveJson": [
+      "i18n/no.json"
+    ],
+    "OutputDir": "xlsx"
+  },
+  "XlsxToJson": {
+    "XlsxSource": "a.xlsx",
+    "OutputDir": "json"
+  }
+}
